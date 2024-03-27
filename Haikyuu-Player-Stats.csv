@@ -1,0 +1,187 @@
+School Name,School Year,Name,Power,Jumping,Stamina,Game-sense,Technique,Speed,Overall,Number,Position,notes
+Karasuno High,3rd year,Daichi Sawamura,4,3,3,4,4,3,21,#1,Wing Spiker
+Karasuno High,3rd year,Kōshi Sugawara,2,2,2,4,4,2,16,#2,Setter
+Karasuno High,3rd year,Asahi Azumane,5,3,3,3,3,2,19,#3,Wing Spiker
+Karasuno High,2nd year,Yū Nishinoya,2,4,5,4,3,5,23,#4,Libero
+Karasuno High,2nd year,Ryūnosuke Tanaka,5,3,4,1,2,3,18,#5,Wing Spiker
+Karasuno High,2nd year,Chikara Ennoshita,3,2,3,3,3,2,16,#6,Wing Spiker
+Karasuno High,2nd year,Hisashi Kinoshita,3,2,3,2,2,4,16,#7,Wing Spiker
+Karasuno High,2nd year,Kazuhito Narita,2,2,2,4,3,3,16,#8,Wing Spiker
+Karasuno High,1st year,Tobio Kageyama,4,4,5,5,5,4,27,#9,Setter
+Karasuno High,1st year,Shōyō Hinata,1,5,5,1,1,5,18,#10,Middle Blocker
+Karasuno High,1st year,Kei Tsukishima,2,3,3,5,3,3,19,#11,Middle Blocker
+Karasuno High,1st year,Tadashi Yamaguchi,2,3,2,3,2,3,15,#12,Setter
+Karasuno High,Manager,Hitoka Yachi,1,2,2,4,1,2,12,#13,Manager
+Karasuno High,Manager,Kiyoko Shimizu,1,4,4,3,2,5,17,#14,Manager
+Karasuno High,Faculty Advisor,Ittetsu Takeda,1,1,2,4,1,1,10,,Faculty Advisor
+Karasuno High,Coach,Keishin Ukai,4,3,3,4,4,2,20,#2,Coach
+Karasuno High,Former players,Yūsuke Takinoue,3,2,3,4,4,3,19,#9,Middle Blocker
+Karasuno High,Former players,Makoto Shimada,2,3,3,4,4,2,18,#11,Wing Spiker
+Karasuno High,Former players,Akiteru Tsukishima,4,2,4,3,3,2,18,#5,Wing Spiker
+Karasuno High,Badass sister,Saeko Tanaka,4,4,5,4,2,3,22,,Badass sister
+Aobajōsai High,3rd year,Tōru Oikawa,5,3,4,4,5,3,24,#1,Setter
+Aobajōsai High,3rd year,Issei Matsukawa,4,2,4,3,3,3,19,#2,Middle Blocker
+Aobajōsai High,3rd year,Takahiro Hanamaki,4,3,3,4,3,2,19,#3,Wing Spiker
+Aobajōsai High,3rd year,Hajime Iwaizumi,5,4,4,3,3,4,23,#4,Wing Spiker
+Aobajōsai High,2nd year,Shigeru Yahaba,3,2,2,4,4,3,18,#6,Setter
+Aobajōsai High,2nd year,Shinji Watari,2,4,3,4,3,3,19,#7,Libero
+Aobajōsai High,2nd year,Kentarō Kyōtani,4,4,3,1,3,4,19,#16,Wing Spiker
+Aobajōsai High,1st year,Yūtarō Kindaichi,3,3,4,2,3,3,18,#12,Middle Blocker
+Aobajōsai High,1st year,Akira Kunimi,3,3,3,5,3,3,20,#13,Wing Spiker
+Aobajōsai High,3rd year,Kaneo Yuda,3,3,3,3,3,3,18,#?,Wing Spiker
+Aobajōsai High,3rd year,Motomu Sawauchi,2,2,2,4,3,2,15,#?,Middle Blocker
+Aobajōsai High,3rd year,Heisuke Shido,3,3,3,4,3,3,19,#?,Wing Spiker
+Shiratorizawa Academy,3rd year,Wakatoshi Ushijima,5,4,5,3,3,3,23,#1,Wing Spiker
+Shiratorizawa Academy,3rd year,Jin Soekawa,4,3,3,4,4,3,21,#2,Wing Spiker
+Shiratorizawa Academy,3rd year,Eita Semi,4,4,4,3,3,4,22,#3,Setter
+Shiratorizawa Academy,3rd year,Reon Ōhira,5,3,3,4,4,2,21,#4,Wing Spiker
+Shiratorizawa Academy,3rd year,Satori Tendō,2,3,2,4,4,3,18,#5,Middle Blocker
+Shiratorizawa Academy,2nd year,Yunohama,3,3,3,3,3,3,18,#7,Pinch Server
+Shiratorizawa Academy,1st year,Tsutomu Goshiki,3,4,4,3,4,3,21,#8,Wing Spiker
+Shiratorizawa Academy,1st year,Yu Shibata,3,3,3,3,3,3,18,#9,Wing Spiker
+Shiratorizawa Academy,2nd year,Kenjirō Shirabu,4,3,4,4,4,3,22,#10,Setter
+Shiratorizawa Academy,2nd year,Taichi Kawanishi,3,2,4,4,3,3,19,#12,Middle Blocker
+Shiratorizawa Academy,1st year,Kai Akakura,2,3,3,3,3,3,17,#13,Libero
+Shiratorizawa Academy,1st year,Hayato Yamagata,3,4,5,3,3,4,22,#14,Libero
+Shiratorizawa Academy,1st year,Yūshō Sagae,3,3,3,3,3,3,18,#?,Wing Spiker
+Shiratorizawa Academy,2nd year,Umeda,3,3,3,3,3,3,18,#?,?
+Shiratorizawa Academy,1st year,Suzuki,3,3,3,3,3,3,18,#?,?
+Shiratorizawa Academy,1st year,Yumeto Nagamatsu,3,3,3,3,3,3,18,#?,?
+Date Tech High,Manager,Mai Nametsu,2,1,3,4,3,1,14,#1,Manager
+Date Tech High,3rd year,Yasushi Kamasaki (MB),5,2,4,2,2,4,19,#1,Middle Blocker,Former vice captain
+Date Tech High,3rd year,Kaname Moniwa (S),2,3,3,4,4,3,18,#2,Setter,Former captain
+Date Tech High,3rd year,Takehito Sasaya (WS),4,4,3,3,4,3,21,#3,Wing Spiker
+Date Tech High,2nd year,Kenji Futakuchi,4,4,3,3,3,4,21,#2,Wing Spiker,Former captain
+Date Tech High,2nd year,Takanobu Aone,5,3,3,3,3,4,21,#1,Middle Blocker,Current captain
+Date Tech High,2nd year,Yutaka Obara (WS),4,3,3,3,4,2,19,#3,Wing Spiker
+Date Tech High,2nd year,Tarō Onagawa (WS),2,3,3,4,4,2,18,#8,Wing Spiker
+Date Tech High,1st year,Kōsuke Sakunami (L),1,4,3,2,3,4,17,#13,Libero
+Date Tech High,1st year,Kanji Koganegawa,5,4,4,1,1,4,19,#7,Setter
+Date Tech High,1st year,Jingo Fukiage (MB),3,2,3,4,2,2,16,#11,Middle Blocker
+Nekoma High,3rd year,Tetsurō Kuroo,3,2,3,4,4,4,20,#1,Middle Blocker
+Nekoma High,3rd year,Nobukuki Kai,3,2,3,4,4,3,19,#2,Wing Spiker
+Nekoma High,3rd year,Morisuke Yaku,1,3,4,4,4,4,20,#3,Libero
+Nekoma High,2nd year,Taketora Yamamoto,5,3,4,1,3,2,18,#4,Wing Spiker
+Nekoma High,2nd year,Kenma Kozume,1,2,2,5,5,3,18,#5,Setter
+Nekoma High,2nd year,Shōhei Fukunaga,3,3,3,4,4,3,20,#6,Wing Spiker
+Nekoma High,1st year,Sō Inuoka,4,3,5,1,1,5,19,#7,Wing Spiker
+Nekoma High,1st year,Tamahiko Teshiro,3,4,3,4,3,3,20,#9,Setter
+Nekoma High,1st year,Lev Haiba,3,3,4,2,1,4,17,#11,Middle Blocker
+Nekoma High,1st year,Yūki Shibayama,1,3,2,3,2,4,15,#12,Libero
+Fukurōdani Academy,3rd year,Tatsuki Washio,4,3,4,4,4,3,22,#2,Middle Blocker
+Fukurōdani Academy,3rd year,Yamato Sarukui,4,4,3,3,3,2,19,#3,Wing Spiker
+Fukurōdani Academy,3rd year,Kōtarō Bokuto,5,4,5,3,3,4,24,#4,Wing Spiker
+Fukurōdani Academy,3rd year,Akinori Konoha,2,4,3,4,4,4,21,#7,Wing Spiker
+Fukurōdani Academy,3rd year,Haruki Komi,3,4,5,3,3,4,22,#11,Libero
+Fukurōdani Academy,2nd year,Keiji Akaashi,3,4,4,4,4,4,23,#5,Setter
+Fukurōdani Academy,1st year,Wataru Onaga,3,2,4,2,2,3,16,#12,Middle Blocker
+Wakutani South High,3rd year,Takeru Nakashima (WS),4,4,5,3,4,4,24,#1,Wing Spiker
+Wakutani South High,3rd year,Shunki Kawatabi (WS),2,4,3,3,3,4,19,#2,Wing Spiker
+Wakutani South High,3rd year,Yūki Shiroishi (WS),4,4,4,3,3,3,21,#4,Wing Spiker
+Wakutani South High,3rd year,Kazumasa Hanayama (S),4,2,3,3,3,3,18,#5,Setter
+Wakutani South High,3rd year,Teppei Naruko (MB),3,3,3,4,3,3,19,#8,Middle Blocker
+Wakutani South High,2nd year,Kazuteru Akiu (L),2,4,4,3,3,4,20,#10,Libero
+Wakutani South High,1st year,Tsuyoshi Matsushima,2,3,2,2,2,4,15,#11,Wing Spiker
+Johzenji High,2nd year,Yūji Terushima (WS),4,4,3,3,3,4,21,#1,Wing Spiker
+Johzenji High,2nd year,Kazuma Bobata (MB),2,3,2,3,3,4,17,#2,Middle Blocker
+Johzenji High,2nd year,Takeharu Futamata (S),2,4,3,4,3,3,19,#3,Setter
+Johzenji High,2nd year,Katsumichi Higashiyama (WS),3,3,4,3,3,3,19,#4,Wing Spiker
+Johzenji High,2nd year,Rintarō Numajiri (WS),2,3,2,4,3,4,18,#7,Wing Spiker
+Johzenji High,2nd year,Nobuyoshi Īzaka (MB),3,2,4,3,3,3,18,#9,Middle Blocker
+Johzenji High,2nd year,Arata Tsuchiyu (L),2,3,2,4,2,3,16,#11,Libero
+Kakugawa High,2nd year,Kaito Asamushi (WS),4,3,3,2,2,3,17,#4,Wing Spiker
+Kakugawa High,2nd year,Yuzuru Komaki (S),2,3,2,4,3,2,16,#5,Setter,Current captain
+Kakugawa High,2nd year,Taishi Minamida (L),2,4,3,3,2,3,17,#12,Libero
+Kakugawa High,1st year,Yūdai Hyakuzawa,4,3,4,2,1,2,16,#9,Wing Spiker
+Kakugawa High,2nd year,Yoshiaki Nurukawa,4,3,3,2,2,3,17,#1,Middle Blocker
+Kakugawa High,2nd year,Eiji Makado,4,3,3,2,2,3,17,#3,Middle Blocker
+Kakugawa High,2nd year,Isao Inagaki,4,3,3,2,2,3,17,#7,Wing Spiker
+Ougiminami High,2nd year,Yoshiki Towada,4,3,3,2,2,3,17,,Middle Blocker
+Ougiminami High,,Noboru Akimiya,2,3,2,3,3,3,16,#?,Setter,Former captain
+Tokonami High,3rd year,Hayato Ikejiri,3,2,3,3,3,2,16,#4,Wing Spiker
+Tokonami High,3rd year,Hikaru Komaki,3,2,4,3,4,3,19,#1,Wing Spiker,Current captain
+Tokonami High,3rd year,Kazuma Chaya,3,2,4,3,4,3,19,#3,Middle Blocker
+Tokonami High,3rd year,Hiroki Tamagawa,3,2,4,3,4,3,19,#5,Wing Spiker
+Tokonami High,2nd year,Yoshiharu Haga,2,2,2,4,3,3,16,#9,Setter
+Tokonami High,2nd year,Rikuto Shibuya,3,2,4,3,4,3,19,#10,Middle Blocker
+Tokonami High,3rd year,Taiga Sakurai,3,2,4,3,4,3,19,#12,Libero
+Shinzen High,3rd year,Daiki Ogano,4,3,3,4,3,3,19,#1,Wing Spiker
+Shinzen High,3rd year,Shōta Naguri,2,4,3,3,3,3,18,#3,?
+Shinzen High,3rd year,Noriaki Shimafu,2,4,3,3,3,3,18,#6,?
+Shinzen High,1st year,Eikichi Chigaya,3,2,4,3,4,3,19,#7,Middle Blocker
+Shinzen High,3rd year,Masaru Kodama,2,4,3,3,3,3,18,#8,?
+Shinzen High,3rd year,Yū Akatani,2,4,3,3,3,3,18,#11,?
+Shinzen High,3rd year,Kazutaka Yoshikawa,2,4,3,3,3,3,18,#12,?
+Inarizaki High,3rd year,Shinsuke Kita,3,3,3,4,3,3,19,#1,Wing Spiker,Current captain
+Inarizaki High,3rd year,Ren Ōmimi,4,3,3,3,3,3,19,#2,Middle Blocker
+Inarizaki High,3rd year,Aran Ojiro,4,4,3,4,4,4,23,#4,Wing Spiker
+Inarizaki High,2nd year,Hitoshi Ginjima,4,3,3,3,3,3,19,#5,Wing Spiker
+Inarizaki High,2nd year,Atsumu Miya,4,4,4,5,5,4,26,#7,Setter
+Inarizaki High,2nd year,Rintarō Suna,4,4,3,4,4,3,22,#10,Middle Blocker
+Inarizaki High,2nd year,Osamu Miya,4,4,3,4,4,4,23,#11,Wing Spiker
+Inarizaki High,2nd year,Yūto Kosaku,4,3,3,3,3,3,19,#13,Wing Spiker
+Inarizaki High,1st year,Heisuke Riseki,3,3,3,3,3,3,18,#14,Wing Spiker
+Inarizaki High,3rd year,Michinari Akagi,3,3,3,3,3,3,18,#15,Libero
+Itachiyama Institute,3rd year,Kiyoomi Sakusa,5,4,4,4,4,4,25,#10,Wing Spiker
+Itachiyama Institute,2nd year,Motoya Komori,3,4,4,4,4,4,23,#13,Libero
+Itachiyama Institute,3rd year,Tsukasa Iizuna,4,4,4,4,4,4,24,#1,Setter
+Kamomendai High,3rd year,Sachirō Hirugami,4,3,3,4,4,3,21,#6,Middle Blocker
+Kamomendai High,2nd year,Kōrai Hoshiumi,4,4,4,4,4,4,24,#5,Wing Spiker
+Kamomendai High,1st year,Liam Tokura,3,3,3,4,4,3,20,#12,Setter
+Kamomendai High,3rd year,Aikichi Suwa,4,3,3,4,4,3,21,#1,Setter,Current captain
+Kamomendai High,3rd year,Izuru Nozawa,4,3,3,4,4,3,21,#4,Wing Spiker
+Kamomendai High,2nd year,Gao Hakuba,4,4,3,3,3,4,21,#10,Wing Spiker
+Kamomendai High,1st year,Kazuyoshi Bessho,3,3,3,4,3,3,19,#8,Middle Blocker
+Kamomendai High,3rd year,Keiichirō Kanbayashi,3,4,4,4,4,4,23,#13,Libero
+Kamomendai High,?,Isao Norikura,3,3,3,4,4,3,20,#7,Wing Spiker
+Mujinazaka High,3rd year,Wakatsu Kiryū,5,4,4,4,4,4,25,#1,Wing Spiker,Current captain
+Mujinazaka High,3rd year,Nozomu Mami,4,3,3,4,4,3,21,#2,Middle Blocker
+Mujinazaka High,3rd year,Keisuke Unnan,4,3,3,4,4,3,21,#4,Middle Blocker
+Mujinazaka High,3rd year,Naoharu Ezota,4,3,3,4,4,3,21,#7,Wing Spiker
+Mujinazaka High,2nd year,Michiru Usuri,3,3,3,3,3,3,18,#9,Setter
+Mujinazaka High,2nd year,Subaru Hondo,3,3,3,3,3,3,18,#10,Wing Spiker
+Mujinazaka High,2nd year,Haruma Bishin,3,3,3,3,3,3,18,#13,Libero
+Mujinazaka High,3rd year,Yasushi Kamasaki,3,3,3,3,3,3,18,#1,Middle Blocker,Former vice captain
+Mujinazaka High,3rd year,Kaname Moniwa,3,3,3,3,3,3,18,#2,Setter,Former captain
+Mujinazaka High,3rd year,Takehito Sasaya,3,3,3,3,3,3,18,#3,Wing Spiker
+Nohebi Academy,3rd year,Suguru Daishō,3,3,3,3,3,3,18,#1
+Nohebi Academy,3rd year,Yoshiya Takachiho,3,3,3,3,3,3,18,#2
+Nohebi Academy,3rd year,Kazuma Numai,3,3,3,3,3,3,18,#4
+Nohebi Academy,3rd year,Kōji Hiroo,3,3,3,3,3,3,18,#5
+Nohebi Academy,3rd year,Isumi Sakishima,3,3,3,3,3,3,18,#7
+Nohebi Academy,2nd year,Sō Akama,3,3,3,3,3,3,18,#8
+Nohebi Academy,2nd year,Akihiko Seguro,3,3,3,3,3,3,18,#10
+Nohebi Academy,1st year,Naoyasu Kuguri,3,3,3,3,3,3,18,#12
+Eiwa High,?,Kohei,3,3,3,3,3,3,18,#9
+Hakusuikan High,1st year,Junji Kuroishi,3,3,3,3,3,3,18,#?
+Sarukawa Tech High,3rd Year,Itaru Shiramine,4,3,3,4,4,3,21,#1
+Sarukawa Tech High,3rd Year,Hisahiko Wakura,3,2,3,3,3,2,16,#3
+Sarukawa Tech High,3rd Year,Iori Kanazawa,4,3,3,3,3,2,18,#4
+Sarukawa Tech High,2nd Year,Tomonari Shiga,3,2,3,3,3,2,16,#8
+Sarukawa Tech High,2nd Year,Tomokazu Wajima,2,4,4,3,3,3,19,#9
+Sarukawa Tech High,2nd Year,Kenrō Fukatani,3,3,3,3,3,3,18,#10
+Sarukawa Tech High,2nd Year,Sōji Yamashiro,3,3,3,3,3,3,18,#12
+Inubishi Higashi High,1st Year,Ryōsei Kai,3,3,3,3,3,3,18,#4
+Tsubakihara Academy,3rd year,Kazuki Maruyama,3,3,3,3,3,3,18,#1,Wing Spiker
+Tsubakihara Academy,3rd year,Sakae Echigo,3,3,3,3,3,3,18,#2,Setter,Current Captain
+Tsubakihara Academy,2nd year,Chiharu Tsukioka,3,3,3,3,3,3,18,#3,Pinch Server
+Tsubakihara Academy,3rd year,Motoki Teradomari,3,3,3,3,3,3,18,#4,Wing Spiker
+Tsubakihara Academy,2nd year,Dai Mikawa,3,3,3,3,3,3,18,#5,Pinch Server
+Tsubakihara Academy,2nd year,Tōgo Iwamuro,3,3,3,3,3,3,18,#8,Middle Blocker
+Tsubakihara Academy,2nd year,Yoshitomo Atema,3,3,3,3,3,3,18,#9,Middle Blocker
+Tsubakihara Academy,2nd year,Yūshi Maiko,3,3,3,3,3,3,18,#10,Wing Spiker
+Tsubakihara Academy,2nd year,Akifumi Kaikake,3,3,3,3,3,3,18,#12,Libero
+Tsubakihara Academy,1st year,Aoi Himekawa,3,3,3,3,3,3,18,#14,Wing Spiker
+Kamomedai High,3rd year,Aikichi Suwa,4,3,3,4,4,3,21,#1,Setter,Current Captain
+Kamomedai High,3rd year,Izuru Nozawa,4,3,3,4,4,3,21,#4,Wing Spiker
+Kamomedai High,2nd year,Kōrai Hoshiumi,4,4,4,4,4,4,24,#5,Wing Spiker
+Kamomedai High,2nd year,Sachirō Hirugami,4,3,3,4,4,3,21,#6,Middle Blocker
+Kamomedai High,?,Isao Norikura,3,3,3,4,4,3,20,#7,Wing Spiker
+Kamomedai High,1st year,Kazuyoshi Bessho,3,3,3,4,3,3,19,#8,Middle Blocker
+Kamomedai High,2nd year,Gao Hakuba,4,4,3,3,3,4,21,#10,Wing Spiker
+Kamomedai High,1st year,Liam Tokura,3,3,3,4,4,3,20,#12,Setter
+Kamomedai High,3rd year,Keiichirō Kanbayashi,3,4,4,4,4,4,23,#13,Libero
+Kiyokawa High,3rd year,Ryōji Yamazaki,4,3,3,4,4,3,21,#1,Wing Spiker
+Ubugawa High,3rd year,Masaki Gōra,4,3,3,4,4,3,21,#1,Wing Spiker
+
+
